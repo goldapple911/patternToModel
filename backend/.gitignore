@@ -1,0 +1,4 @@
+/source_file/
+*.obj
+*.glb
+.venv
